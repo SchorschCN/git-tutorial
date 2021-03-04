@@ -1,0 +1,7 @@
+git add
+git commit -m
+git commit -a -m
+git log --pretty=oneline
+git log --oneline
+git reflog
+
