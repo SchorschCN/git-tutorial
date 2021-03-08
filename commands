@@ -9,3 +9,4 @@ reset	--hard
 	--mixed
 	--soft
 git diff [version] file //compare the specific file with repository [verison]
+git diff [version1][version2] //compare version2 with version1, whats new in version2
