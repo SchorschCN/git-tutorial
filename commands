@@ -17,3 +17,4 @@ git branch -v
 combine 2 branches:
 	1.change to the destination branch
 	2.git merge [source branch]
+[modified by branch fix]
