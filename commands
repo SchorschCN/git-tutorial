@@ -4,4 +4,5 @@ git commit -a -m
 git log --pretty=oneline
 git log --oneline
 git reflog
+git reset --hard [hash][HEAD^ ~NUM]
 
