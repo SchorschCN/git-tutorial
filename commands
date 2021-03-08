@@ -14,3 +14,6 @@ git diff [version1][version2] //compare version2 with version1, whats new in ver
 git branch [name of new branch]
 git checkout [branchname]
 git branch -v
+combine 2 branches:
+	1.change to the destination branch
+	2.git merge [source branch]
