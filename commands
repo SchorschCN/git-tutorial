@@ -5,4 +5,7 @@ git log --pretty=oneline
 git log --oneline
 git reflog
 git reset --hard [hash][HEAD^ ~NUM]
+reset	--hard
+	--mixed
+	--soft
 
