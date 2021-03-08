@@ -8,4 +8,4 @@ git reset --hard [hash][HEAD^ ~NUM]
 reset	--hard
 	--mixed
 	--soft
-
+git diff [version] file //compare the specific file with repository [verison]
