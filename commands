@@ -13,3 +13,4 @@ git diff [version1][version2] //compare version2 with version1, whats new in ver
 
 git branch [name of new branch]
 git checkout [branchname]
+git branch -v
