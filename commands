@@ -22,4 +22,6 @@ combine 2 branches:
 remote operations:
 git remote -v
 git remote add origin [url]	//username and passwd requested
+git fetch [alias of remote repository] [name of remote branch]		//pull=fetch+merge
+git merge [alias remote repo/remote branch]
 
