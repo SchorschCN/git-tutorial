@@ -18,3 +18,8 @@ combine 2 branches:
 	1.change to the destination branch
 	2.git merge [source branch]
 [modified by branch fix]
+
+remote operations:
+git remote -v
+git remote add origin [url]	//username and passwd requested
+
