@@ -1,4 +1,6 @@
-git laboratory
-git update 1
-git up2
-git up3
+git command laboratory
+
+list all commands while learning git
+see commands (with comments)
+
+keep updating
